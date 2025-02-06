@@ -20,7 +20,7 @@ initializeData();
 // Route: Get all data
 app.get("/data", (req, res) => {
   if (!jsonData) return res.status(500).json({ error: "Data not loaded" });
-  res.json(jsonData);
+  res.json(jsonData.slice(0, 10));
 });
 
 app.get("/players/:id", (req, res) => {
@@ -67,7 +67,9 @@ app.get("/players", (req, res) => {
     id: item.id,
   }));
 
-  res.json(names);
+  const limit = names.slice(0, 10);
+
+  res.json(limit);
 });
 
 app.get("/statFilter", (req, res) => {
@@ -95,9 +97,11 @@ app.get("/statFilter", (req, res) => {
     return statValue >= minValue && statValue <= maxValue;
   });
 
+  const limit = filteredPlayers.slice(0, 10);
+
   res.json({
-    total: filteredPlayers.length,
-    data: filteredPlayers,
+    total: limit.length,
+    data: limit,
   });
 });
 
