@@ -1,0 +1,276 @@
+{
+  "id": 188545,
+  "rank": 30,
+  "overallRating": 88,
+  "firstName": "Robert",
+  "lastName": "Lewandowski",
+  "commonName": null,
+  "birthdate": "8/21/1988 12:00:00 AM",
+  "height": 185,
+  "skillMoves": 4,
+  "weakFootAbility": 4,
+  "preferredFoot": 1,
+  "leagueName": "LALIGA EA SPORTS",
+  "weight": 81,
+  "avatarUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-portraits/p188545.png?padding=0.7",
+  "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/188545.png?width=265",
+"alternatePositions": null,
+"playerAbilities": [
+{
+"id": "trait1_1",
+"label": "Finesse Shot",
+"description": "Faster finesse shots with more curve and accuracy",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/468u1R1p2k1fA6WBHi0OEn/fb9d49ed2a8fb500cd5a184937b96b34/Finesse_Shot.png",
+"type": {
+"id": "playStyle",
+"label": "Play Style"
+}
+},
+{
+"id": "trait1_4",
+"label": "Power Shot",
+"description": "Faster power shots with increased speed",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/3ohVoKWSsvT44qgjabWqfV/e536ef26ad854c3c4cbf63ed7954b9cd/Power_Shot.png",
+"type": {
+"id": "playStyle",
+"label": "Play Style"
+}
+},
+{
+"id": "trait1_16",
+"label": "Power Header",
+"description": "Powerful, accurate headers",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/6sIKhOAdV5ZrEl35v8Qn1Q/ae40a62dde951ea0ca15a078c93ae580/Power_Header.png",
+"type": {
+"id": "playStyle",
+"label": "Play Style"
+}
+},
+{
+"id": "trait1_32",
+"label": "Incisive Pass",
+"description": "Accurate through passes, curvier swerve passes, faster precision passes",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/2K5BYfVYRnrdjt8F3hwI04/62f147b6a436c107bfa3d042c1d5728d/Incisive_Pass.png",
+"type": {
+"id": "playStyle",
+"label": "Play Style"
+}
+},
+{
+"id": "trait1_524288",
+"label": "First Touch",
+"description": "Reduced trapping error, faster dribbling transition",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/3f727XsoDVLbT49oMk0HBu/2787568be8ccb2d5daa2d18fabacad97/First_Touch.png",
+"type": {
+"id": "playStyle",
+"label": "Play Style"
+}
+},
+{
+"id": "trait1_16777216",
+"label": "Trivela",
+"description": "Contextually triggers "outside of the foot" kicks, reduces errors",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/4V77ZiJ0w8qDuORPMPz8nB/d7b0c4a2c3da6102e67a3db3c749aca8/Trivela.png",
+"type": {
+"id": "playStyle",
+"label": "Play Style"
+}
+},
+{
+"id": "icontrait1_2",
+"label": "Chip Shot+",
+"description": "Quicker chip shots with exceptional accuracy",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/4dubNf6b2DxdV1MvuUmd14/d4bbc70640a199b15745946057572ff1/Chip_Shot_.png",
+"type": {
+"id": "playStylePlus",
+"label": "Play Style Plus"
+}
+}
+],
+"gender": {
+"id": 0,
+"label": "Men's Football"
+},
+"nationality": {
+"id": 37,
+"label": "Poland",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/KLzBJsJ0eQPZm4hVsZFgc/1a1b9891525684b366053c13c6c87487/f_37.png"
+},
+"team": {
+"id": 241,
+"label": "FC Barcelona",
+"imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/78IsnlfAiYOFM2UtAN8n05/1227e7142f5590b6a92c4e1d37d05dba/FC_Barcelona.png",
+"isPopular": true
+},
+"position": {
+"id": "25",
+"shortLabel": "ST",
+"label": "Striker",
+"positionType": {
+"id": "attack",
+"name": "Attack"
+}
+},
+"stats": {
+"acceleration": {
+"value": 76,
+"diff": 0
+},
+"agility": {
+"value": 77,
+"diff": 0
+},
+"jumping": {
+"value": 92,
+"diff": 0
+},
+"stamina": {
+"value": 76,
+"diff": 0
+},
+"strength": {
+"value": 89,
+"diff": 0
+},
+"aggression": {
+"value": 81,
+"diff": 0
+},
+"balance": {
+"value": 83,
+"diff": 0
+},
+"ballControl": {
+"value": 90,
+"diff": 0
+},
+"composure": {
+"value": 87,
+"diff": -1
+},
+"crossing": {
+"value": 76,
+"diff": 0
+},
+"curve": {
+"value": 79,
+"diff": 0
+},
+"def": {
+"value": 44,
+"diff": 0
+},
+"defensiveAwareness": {
+"value": 35,
+"diff": 0
+},
+"dri": {
+"value": 86,
+"diff": -1
+},
+"dribbling": {
+"value": 85,
+"diff": -1
+},
+"finishing": {
+"value": 90,
+"diff": -3
+},
+"freeKickAccuracy": {
+"value": 84,
+"diff": -1
+},
+"gkDiving": {
+"value": 15,
+"diff": 0
+},
+"gkHandling": {
+"value": 6,
+"diff": 0
+},
+"gkKicking": {
+"value": 12,
+"diff": 0
+},
+"gkPositioning": {
+"value": 8,
+"diff": 0
+},
+"gkReflexes": {
+"value": 10,
+"diff": 0
+},
+"headingAccuracy": {
+"value": 88,
+"diff": -3
+},
+"interceptions": {
+"value": 49,
+"diff": 0
+},
+"longPassing": {
+"value": 70,
+"diff": 0
+},
+"longShots": {
+"value": 82,
+"diff": -2
+},
+"pac": {
+"value": 75,
+"diff": 0
+},
+"pas": {
+"value": 79,
+"diff": -1
+},
+"penalties": {
+"value": 90,
+"diff": 0
+},
+"phy": {
+"value": 84,
+"diff": 0
+},
+"positioning": {
+"value": 90,
+"diff": -4
+},
+"reactions": {
+"value": 89,
+"diff": -4
+},
+"sho": {
+"value": 88,
+"diff": -3
+},
+"shortPassing": {
+"value": 84,
+"diff": 0
+},
+"shotPower": {
+"value": 89,
+"diff": -2
+},
+"slidingTackle": {
+"value": 19,
+"diff": 0
+},
+"sprintSpeed": {
+"value": 75,
+"diff": 0
+},
+"standingTackle": {
+"value": 42,
+"diff": 0
+},
+"vision": {
+"value": 81,
+"diff": 0
+},
+"volleys": {
+"value": 86,
+"diff": -3
+}
+}
+}
